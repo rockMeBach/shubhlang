@@ -1,8 +1,10 @@
 # ShubhLang
 
-A very basic coding language that I implemented last year using Java. It's named after my cousin Shubham who likes One Piece a lot, hence "ShubhLang".
+A very basic coding language that I implemented last year using Java. It's named after my cousin Shubham, hence "ShubhLang".
 As of now, you can only perform some arithmetic operations, declare variables, print stuff and all.
 I was following "Crafting Interpreters" by Robert Nystrom (creator of Dart).
+
+The error handling part of the language has some humorous stuff, try it out!
 
 ## How to use
 
