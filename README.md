@@ -9,6 +9,7 @@ The error handling part of the language has some humorous stuff, try it out!
 ## How to use
 
 - You can create variables using the keyword "var", for e.g., var a = 1;
+- Print stuff using "print", like **print "hello";** and to print a variable, **print a;**
 - Every expression must end with a semicolon;
 - You can either run the program without arguments (ShubhLang.java is the main class with the entry-point) which will start a REPL loop or you can create a file and write ShubhLang code in it then run with the filename as the argument.
 - I use Eclipse so I have my run configurations there.
